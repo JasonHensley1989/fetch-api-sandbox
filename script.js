@@ -8,5 +8,6 @@ function getText() {
         .then(data => {
             document.getElementById('output').innerHTML = data
         })
+        .catch(err => console.log("Error"))
 }
 
