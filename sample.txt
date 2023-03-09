@@ -1,1 +1,1 @@
-I am a sample text file
+This project was built using local files, for builing out of testing all the way to third party API
