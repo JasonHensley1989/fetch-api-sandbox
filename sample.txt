@@ -1,3 +1,2 @@
 This project was built using local files, for building out of testing all the way to third party API
 Tests
-and building
